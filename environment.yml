@@ -1,0 +1,7 @@
+name: uploader
+dependencies:
+  - python=3.7
+  - pandas
+  - pip:
+    - porthole
+

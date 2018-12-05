@@ -1,0 +1,11 @@
+.DS_Store
+config.ini
+alembic.ini
+automated_reports/config/config.ini.wjm
+cron.ini
+*.pyc
+*.json
+automated_reports/visualizations/daily_reports/json
+*.idea
+*.db
+*.log
